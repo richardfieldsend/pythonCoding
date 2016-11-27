@@ -1,0 +1,15 @@
+prepare
+preheat
+predict
+precook
+previous
+deflate
+decrease
+demist
+defrost
+defuse
+replace
+refresh
+recycle
+reform
+return

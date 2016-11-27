@@ -1,0 +1,30 @@
+A list of possible changes/improvements for python programs held in
+   this directory.
+
+
+Spelling Practise:
+* - retrieve the file name for the spelling suggestions from the
+   command line (python spellpractise.py <filename>)
+
+* - extract the 'ask question/get answer/check answer/modify score'
+   loop into a function so program becomes OOP 
+
+* - randomise the order of questions
+
+* - Could look at using Python and a speech processor to ask for the
+   word audibly.
+
+Mathionaire game:
+
+* Add four possible answers for each question. There would need to be
+   code generating the optional answers. Two of these should be
+   relatively outlandish, one plausible and the correct answer. 
+
+* Work out how to compile binaries of programs so that they can be run
+   without the use of a python binary.
+
+* Check development of Python on Windows. Obviously I don't want to do
+   that, but it is what people are comfortable with.
+
+
+

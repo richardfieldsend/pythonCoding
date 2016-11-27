@@ -1,0 +1,24 @@
+This is the readme file for my Python Coding folder which is managed
+using git running on my Raspberry Pi.
+
+To clone a repository type the command:
+
+git clone git@ziggypi:/mnt/extdrive/pythonCoding.git
+
+The programs in the pythonCoding folder are currently:
+
+spellingPractice.py
+spellings.txt
+
+millionaire.py
+millionaire2.py
+millionwin.py
+
+(these are attempts to write a maths game for Lizzie's homework one
+week).
+
+twoHundred/*
+
+A program to solve the problem set in Lizzie's homework one week. See
+the comments in the program file for information on the problem and
+the solutions (manual and programmatic).

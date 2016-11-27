@@ -1,0 +1,15 @@
+action
+invention
+direction
+injection
+eruption
+adoration
+relation
+inspiration
+rotation
+duration
+magician
+electrician
+optician
+politician
+beautician
