@@ -1,0 +1,20 @@
+################################################################
+#
+# Magic Square solving code.
+#
+# Another homework problem which I am trying to solve in Python.
+#
+# The problem is to populate a magic 3x3 square with the values
+# 15,25,35,45,55,65,75,85,95 such that each column and each row totals
+# to 165.  There is one square pre-populated, the lower left square
+# which is 25.
+#
+# I am planning to use an approach similar to the one I used for the 4
+# cell square where the numbers totalled to 200.
+#
+################################################################
+
+box1 = [15,35,45,55,65,75,85,95]
+
+for n in box1:
+    print n
