@@ -1,0 +1,15 @@
+fatality
+elasticity
+rigidity
+normality
+brutality
+insanity
+fertility
+agility
+mobility
+purity
+capability
+credibility
+visibility
+portability
+durability
